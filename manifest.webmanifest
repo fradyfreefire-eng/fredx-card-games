@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Green Felt — Play a round",
+  "short_name": "Green Felt",
+  "description": "A quick offline card game. Match suits and be the first to empty your hand.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#09120e",
+  "theme_color": "#09120e",
+  "icons": [
+    { "src": "/green-felt-icon.png", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
